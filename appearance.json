@@ -1,0 +1,15 @@
+{
+  "accentColor": "#477eff",
+  "cssTheme": "Mado Miniflow",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "CyanVoxels-General-Tweaks",
+    "Obsidian-V16-fixes-for-Mado-Miniflow"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false
+}

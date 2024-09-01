@@ -1,0 +1,11 @@
+{
+  "showLineNumber": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "useTab": true,
+  "alwaysUpdateLinks": false,
+  "attachmentFolderPath": "Assets",
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "newFileLocation": "root"
+}
